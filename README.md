@@ -42,8 +42,8 @@ All figures and tables presented in this repository are original and were create
 
 ## Contact
 
-For any inquiries or further discussion regarding the research, figures, or tables, please reach out to ZhangZhiqing at 222309252018@zust.edu.cn.
+For any inquiries or further discussion regarding the research, figures, or tables, please reach out to ZhangZhiqiang at 222309252018@zust.edu.cn.
 
 ---
 
-This repository is maintained by ZhangZhiqing. © 2024. All rights reserved.
+This repository is maintained by ZhangZhiqiang. © 2024. All rights reserved.
