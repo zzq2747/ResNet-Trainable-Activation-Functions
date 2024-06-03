@@ -1,0 +1,6 @@
+You can download the CIFAR-10 and CIFAR-100 datasets from the following URLs:
+
+- CIFAR-10 dataset download URL: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
+- CIFAR-100 dataset download URL: [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
+
+On this page, you can find detailed instructions and download links. Typically, the downloaded files are compressed archives, and upon extraction, they will contain the image data for the training and test sets.
